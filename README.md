@@ -6,4 +6,4 @@
 
 Программа обучения очень насыщенная и интересная. Надеюсь, что смогу ее освоить и применить свои знания в работе!
 
-![Getting Started](./images/RSHSqkH_kZU.jpg)
+![Фото](C:\Users\admin\Desktop\Питон\Git\Новая папка\my-project\RSHSqkH_kZU.jpg)
